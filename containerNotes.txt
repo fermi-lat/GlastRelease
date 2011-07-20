@@ -1,3 +1,0 @@
-$Id$
-
-heather 20-July-2011 11:51 AM  Settings up P7 branch of GR for SCons
