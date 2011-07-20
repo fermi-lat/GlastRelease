@@ -1,0 +1,144 @@
+# GlastRelease packageList.txt
+# $Id$
+
+# in common with ScienceTools
+xmlBase xmlBase-05-05-02
+astro astro-03-11-11-gr01
+facilities facilities-02-19-07
+flux flux-08-40-07
+tip tip-02-17-00
+fitsGen fitsGen-06-02-04
+embed_python embed_python-01-05-05
+evtUtils evtUtils-00-01-11
+
+# source modeling
+celestialSources celestialSources-01-03-05
+celestialSources/genericSources genericSources-01-14-05
+celestialSources/Pulsar Pulsar-03-01-01
+celestialSources/SpectObj SpectObj-01-03-08
+celestialSources/GRB GRB-04-04-06
+celestialSources/GRBobs GRBobs-03-03-04
+celestialSources/GRBtemplate GRBtemplate-01-03-04
+celestialSources/eblAtten eblAtten-00-08-01
+celestialSources/microQuasar microQuasar-01-04-04
+
+# infrastructure
+gr_app gr_app-00-02-00
+gui gui-03-07-02
+geomrep geomrep-04-03-00
+geometry geometry-03-02-00
+xmlUtil xmlUtil-03-04-01
+enums enums-03-00-02
+idents idents-02-20-01
+detModel detModel-02-21-00
+rdbModel rdbModel-02-14-05
+
+# geometry description
+xmlGeoDbs xmlGeoDbs-01-48-00
+
+# General Gaudi pacakges
+Event Event-13-05-00
+GlastSvc GlastSvc-09-28-04
+GuiSvc GuiSvc-03-08-01
+DetDisplay DetDisplay-03-03-00
+userAlg userAlg-06-06-02
+RootDisplay RootDisplay-00-03-00
+EventIntegrity EventIntegrity-00-08-02
+
+# ROOT data descriptions
+commonRootData commonRootData-02-15-05
+mcRootData mcRootData-02-22-00
+digiRootData digiRootData-11-14-03
+reconRootData reconRootData-09-20-01-gr02
+gcrSelectRootData gcrSelectRootData-02-02-03
+rootUtil rootUtil-01-04-00
+rootTestData rootTestData-04-02-00
+
+AdfEvent AdfEvent-00-05-01
+AncillaryDataEvent AncillaryDataEvent-01-04-01
+AncillaryDataUtil AncillaryDataUtil-01-00-03
+
+RootConvert RootConvert-01-42-01-gr01
+RootIo RootIo-24-05-00-gr01
+
+configData configData-01-10-04
+Trigger Trigger-07-01-04
+
+FluxSvc FluxSvc-06-55-02
+CRflux CRflux-01-17-04
+
+EbfWriter EbfWriter-01-08-00
+OnboardFilter OnboardFilter-04-14-06
+OnboardFilterTds OnboardFilterTds-00-10-00
+
+# Calorimeter
+CalUtil CalUtil-03-14-02
+CalXtalResponse CalXtalResponse-00-23-01
+CalDigi CalDigi-03-07-00
+CalRecon CalRecon-06-08-02
+GCRCalib GCRCalib-01-07-02
+
+# Tracker
+TkrDigi TkrDigi-02-10-09
+TkrUtil TkrUtil-03-18-02
+TkrRecon TkrRecon-10-16-07
+
+# ACD
+AcdDigi AcdDigi-03-08-00
+AcdUtil AcdUtil-02-08-09
+AcdRecon AcdRecon-04-03-03
+
+# Geant4
+GlastMS GlastMS-00-03-00
+G4Generator G4Generator-05-25-01-gr02
+G4HadronSim G4HadronSim-01-06-00
+G4Propagator G4Propagator-02-05-01
+
+# calibration
+calibUtil calibUtil-01-13-00
+CalibData CalibData-00-26-01
+CalibSvc CalibSvc-00-40-00
+calibRootData calibRootData-01-07-08
+
+# ntuple
+ntupleWriterSvc ntupleWriterSvc-05-04-00
+merit merit-06-36-03
+AnalysisNtuple AnalysisNtuple-02-55-09-gr03
+
+# LDF
+CHS/eventFile eventFile-09-00-00
+LdfEvent LdfEvent-04-10-00
+lsfData lsfData-04-03-00
+ldfReader ldfReader-07-04-01-gr04
+LdfConverter LdfConverter-04-03-04-gr04
+
+# HepRep
+HepRepSvc HepRepSvc-00-31-02-gr01
+HepRepCorba HepRepCorba-03-01-00-gr01
+HepRepXml HepRepXml-00-08-02
+
+# classification
+classifier classifier-01-06-01
+GlastClassify GlastClassify-07-05-00-gr05
+
+Interleave Interleave-01-06-03
+
+# MOOT
+mootCore mootCore-01-24-01
+MootSvc MootSvc-01-01-06
+ConfigSvc ConfigSvc-00-02-09
+
+# Overlay
+OverlayEvent OverlayEvent-00-02-01
+Overlay Overlay-01-06-00
+overlayRootData overlayRootData-00-02-02
+
+calibGenCAL calibGenCAL-05-09-01
+calibGenACD calibGenACD-04-01-03
+calibTkrUtil calibTkrUtil-02-09-00
+calibGenTKR calibGenTKR-04-08-00
+
+# not used in Gleam, here as a build check
+detCheck detCheck-01-07-00
+
+Gleam Gleam-07-04-07-gr03
