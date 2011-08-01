@@ -119,7 +119,7 @@ HepRepXml HepRepXml-00-08-02
 
 # classification
 classifier classifier-01-06-04-gr01
-GlastClassify GlastClassify-07-05-05
+GlastClassify GlastClassify-07-07-05
 
 Interleave Interleave-01-06-07
 
