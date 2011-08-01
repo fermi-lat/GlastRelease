@@ -118,7 +118,7 @@ HepRepCorba HepRepCorba-03-03-00
 HepRepXml HepRepXml-00-08-02
 
 # classification
-classifier classifier-01-06-04
+classifier classifier-01-06-04-gr01
 GlastClassify GlastClassify-07-05-05
 
 Interleave Interleave-01-06-07
