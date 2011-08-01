@@ -2,7 +2,7 @@
 # $Id$
 
 # in common with ScienceTools
-xmlBase xmlBase-05-05-02
+xmlBase xmlBase-05-05-10
 astro astro-03-11-11-gr01
 facilities facilities-02-19-07
 flux flux-08-40-07
@@ -84,9 +84,9 @@ TkrUtil TkrUtil-03-18-02-gr01
 TkrRecon TkrRecon-10-16-07-gr01
 
 # ACD
-AcdDigi AcdDigi-03-10-05
-AcdUtil AcdUtil-03-01-04
-AcdRecon AcdRecon-05-01-08
+AcdDigi AcdDigi-03-08-00-gr01
+AcdUtil AcdUtil-02-08-09-gr01
+AcdRecon AcdRecon-04-03-03-gr01
 
 # Geant4
 GlastMS GlastMS-00-03-02-gr01
