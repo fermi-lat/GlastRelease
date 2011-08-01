@@ -89,7 +89,7 @@ AcdUtil AcdUtil-03-01-04
 AcdRecon AcdRecon-05-01-08
 
 # Geant4
-GlastMS GlastMS-00-03-01
+GlastMS GlastMS-00-03-02-gr01
 G4Generator G4Generator-05-25-01-gr02
 G4HadronSim G4HadronSim-01-06-01
 G4Propagator G4Propagator-02-05-05
@@ -115,7 +115,7 @@ LdfConverter LdfConverter-04-04-06
 # HepRep
 HepRepSvc HepRepSvc-00-31-02-gr02
 HepRepCorba HepRepCorba-03-03-00
-HepRepXml HepRepXml-00-08-02
+HepRepXml HepRepXml-00-08-07
 
 # classification
 classifier classifier-01-06-04-gr01
