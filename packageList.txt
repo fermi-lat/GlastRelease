@@ -65,7 +65,7 @@ configData configData-01-11-03
 Trigger Trigger-07-01-04
 
 FluxSvc FluxSvc-06-55-08
-CRflux CRflux-01-17-04
+CRflux CRflux-01-17-06
 
 EbfWriter EbfWriter-01-08-05
 OnboardFilter OnboardFilter-04-14-06
@@ -114,7 +114,7 @@ LdfConverter LdfConverter-04-04-06
 
 # HepRep
 HepRepSvc HepRepSvc-00-31-02-gr02
-HepRepCorba HepRepCorba-03-03-00
+HepRepCorba HepRepCorba-03-01-00-gr02
 HepRepXml HepRepXml-00-08-07
 
 # classification
