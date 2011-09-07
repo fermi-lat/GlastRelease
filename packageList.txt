@@ -6,8 +6,8 @@ xmlBase xmlBase-05-05-10
 astro astro-03-11-11-gr01
 facilities facilities-02-20-02
 flux flux-08-40-07
-tip tip-02-17-00
-fitsGen fitsGen-06-02-04
+tip tip-02-17-01
+fitsGen fitsGen-06-04-01
 embed_python embed_python-01-05-05
 evtUtils evtUtils-00-01-11-gr01
 
@@ -41,7 +41,7 @@ Event Event-13-05-00-gr01
 GlastSvc GlastSvc-09-28-04
 GuiSvc GuiSvc-03-08-03
 DetDisplay DetDisplay-03-03-04
-userAlg userAlg-06-06-06
+userAlg userAlg-06-06-08
 RootDisplay RootDisplay-00-03-02
 EventIntegrity EventIntegrity-00-08-05
 
@@ -49,7 +49,7 @@ EventIntegrity EventIntegrity-00-08-05
 commonRootData commonRootData-02-15-08
 mcRootData mcRootData-02-22-03
 digiRootData digiRootData-11-14-03
-reconRootData reconRootData-09-20-01-gr05
+reconRootData reconRootData-09-20-01-gr06
 gcrSelectRootData gcrSelectRootData-02-02-06
 rootUtil rootUtil-01-04-03
 rootTestData rootTestData-04-02-01-gr01
@@ -110,7 +110,7 @@ CHS/eventFile eventFile-09-00-02
 LdfEvent LdfEvent-04-10-01
 lsfData lsfData-04-03-02
 ldfReader ldfReader-07-04-06
-LdfConverter LdfConverter-04-04-06
+LdfConverter LdfConverter-04-04-07
 
 # HepRep
 HepRepSvc HepRepSvc-00-31-02-gr02
@@ -121,7 +121,7 @@ HepRepXml HepRepXml-00-08-07
 classifier classifier-01-06-04-gr01
 GlastClassify GlastClassify-07-05-00-gr06
 
-Interleave Interleave-01-06-07
+Interleave Interleave-01-06-07-gr01
 
 # MOOT
 mootCore mootCore-01-24-07
@@ -130,7 +130,7 @@ ConfigSvc ConfigSvc-00-02-12
 
 # Overlay
 OverlayEvent OverlayEvent-00-02-01-gr02
-Overlay Overlay-01-06-00-gr01
+Overlay Overlay-01-06-00-gr02
 overlayRootData overlayRootData-00-02-02-gr01
 
 calibGenCAL calibGenCAL-05-09-04
