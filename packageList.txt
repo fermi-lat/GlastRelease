@@ -59,7 +59,7 @@ AncillaryDataEvent AncillaryDataEvent-01-04-03
 AncillaryDataUtil AncillaryDataUtil-01-00-05
 
 RootConvert RootConvert-01-42-01-gr03
-RootIo RootIo-24-05-00-gr01
+RootIo RootIo-24-05-00-gr02
 
 configData configData-01-11-03
 Trigger Trigger-07-01-04
@@ -73,20 +73,20 @@ OnboardFilterTds OnboardFilterTds-00-10-02
 
 # Calorimeter
 CalUtil CalUtil-03-14-05
-CalXtalResponse CalXtalResponse-00-23-01-gr01
+CalXtalResponse CalXtalResponse-00-23-01-gr02
 CalDigi CalDigi-03-07-04
 CalRecon CalRecon-06-08-02-gr01
 GCRCalib GCRCalib-01-07-02
 
 # Tracker
 TkrDigi TkrDigi-02-10-09
-TkrUtil TkrUtil-03-18-02-gr01
-TkrRecon TkrRecon-10-16-07-gr01
+TkrUtil TkrUtil-03-18-02-gr02
+TkrRecon TkrRecon-10-16-07-gr02
 
 # ACD
 AcdDigi AcdDigi-03-08-00-gr01
 AcdUtil AcdUtil-02-08-09-gr01
-AcdRecon AcdRecon-04-03-03-gr01
+AcdRecon AcdRecon-04-03-03-gr02
 
 # Geant4
 GlastMS GlastMS-00-03-02-gr01
@@ -103,7 +103,7 @@ calibRootData calibRootData-01-07-11
 # ntuple
 ntupleWriterSvc ntupleWriterSvc-05-04-03
 merit merit-06-36-07
-AnalysisNtuple AnalysisNtuple-02-55-09-gr08
+AnalysisNtuple AnalysisNtuple-02-55-09-gr09
 
 # LDF
 CHS/eventFile eventFile-09-00-02
