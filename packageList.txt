@@ -41,7 +41,7 @@ Event Event-13-05-00-gr01
 GlastSvc GlastSvc-09-28-04
 GuiSvc GuiSvc-03-08-03
 DetDisplay DetDisplay-03-03-04
-userAlg userAlg-06-06-08
+userAlg userAlg-06-06-08-gr01
 RootDisplay RootDisplay-00-03-02
 EventIntegrity EventIntegrity-00-08-05
 
@@ -59,7 +59,7 @@ AncillaryDataEvent AncillaryDataEvent-01-04-03
 AncillaryDataUtil AncillaryDataUtil-01-00-05
 
 RootConvert RootConvert-01-42-01-gr03
-RootIo RootIo-24-05-00-gr02
+RootIo RootIo-24-05-00-gr03
 
 configData configData-01-11-03
 Trigger Trigger-07-01-04
@@ -75,18 +75,18 @@ OnboardFilterTds OnboardFilterTds-00-10-02
 CalUtil CalUtil-03-14-05
 CalXtalResponse CalXtalResponse-00-23-01-gr02
 CalDigi CalDigi-03-07-04
-CalRecon CalRecon-06-08-02-gr01
+CalRecon CalRecon-06-08-02-gr02
 GCRCalib GCRCalib-01-07-02
 
 # Tracker
 TkrDigi TkrDigi-02-10-09
-TkrUtil TkrUtil-03-18-02-gr02
-TkrRecon TkrRecon-10-16-07-gr02
+TkrUtil TkrUtil-03-18-02-gr03
+TkrRecon TkrRecon-10-16-07-gr03
 
 # ACD
 AcdDigi AcdDigi-03-08-00-gr01
 AcdUtil AcdUtil-02-08-09-gr01
-AcdRecon AcdRecon-04-03-03-gr02
+AcdRecon AcdRecon-04-03-03-gr03
 
 # Geant4
 GlastMS GlastMS-00-03-02-gr01
