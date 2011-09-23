@@ -41,7 +41,7 @@ Event Event-13-05-00-gr01
 GlastSvc GlastSvc-09-28-04
 GuiSvc GuiSvc-03-08-03
 DetDisplay DetDisplay-03-03-04
-userAlg userAlg-06-06-08-gr01
+userAlg userAlg-06-06-08-gr02
 RootDisplay RootDisplay-00-03-02
 EventIntegrity EventIntegrity-00-08-05
 
@@ -75,7 +75,7 @@ OnboardFilterTds OnboardFilterTds-00-10-02
 CalUtil CalUtil-03-14-05
 CalXtalResponse CalXtalResponse-00-23-01-gr02
 CalDigi CalDigi-03-07-04
-CalRecon CalRecon-06-08-02-gr02
+CalRecon CalRecon-06-08-02-gr03
 GCRCalib GCRCalib-01-07-02
 
 # Tracker
@@ -143,5 +143,5 @@ detCheck detCheck-01-07-02
 
 Gleam Gleam-07-04-07-gr07
 
-SConsFiles SConsFiles-00-15-00
+SConsFiles SConsFiles-00-15-02
 GlastRelease-scons/containerSettings containerSettings-00-03-00-br01
