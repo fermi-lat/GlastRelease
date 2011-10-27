@@ -103,7 +103,7 @@ calibRootData calibRootData-01-07-11
 # ntuple
 ntupleWriterSvc ntupleWriterSvc-05-04-03
 merit merit-06-36-07
-AnalysisNtuple AnalysisNtuple-02-55-09-gr09
+AnalysisNtuple AnalysisNtuple-02-55-09-gr10
 
 # LDF
 CHS/eventFile eventFile-09-00-02
@@ -135,7 +135,7 @@ overlayRootData overlayRootData-00-02-02-gr01
 
 calibGenCAL calibGenCAL-05-09-04
 calibGenACD calibGenACD-04-01-04
-calibTkrUtil calibTkrUtil-02-09-06
+calibTkrUtil calibTkrUtil-02-09-06-gr01
 calibGenTKR calibGenTKR-04-08-01
 
 # not used in Gleam, here as a build check
