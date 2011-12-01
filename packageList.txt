@@ -38,7 +38,7 @@ xmlGeoDbs xmlGeoDbs-01-48-00
 
 # General Gaudi pacakges
 Event Event-13-05-00-gr01
-GlastSvc GlastSvc-09-28-04
+GlastSvc GlastSvc-09-28-04-gr01
 GuiSvc GuiSvc-03-08-03
 DetDisplay DetDisplay-03-03-04
 userAlg userAlg-06-06-08-gr02
