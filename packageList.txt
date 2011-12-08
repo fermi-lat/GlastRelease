@@ -7,7 +7,7 @@ astro astro-03-11-11-gr01
 facilities facilities-02-20-02
 flux flux-08-40-07
 tip tip-02-17-01
-fitsGen fitsGen-06-04-01
+fitsGen fitsGen-06-04-03
 embed_python embed_python-01-05-05
 evtUtils evtUtils-00-01-11-gr01
 
