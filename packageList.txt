@@ -4,7 +4,7 @@
 # in common with ScienceTools
 xmlBase xmlBase-05-05-10
 astro astro-03-11-11-gr01
-facilities facilities-02-20-02
+facilities facilities-02-20-05
 flux flux-08-40-07
 tip tip-02-17-01
 fitsGen fitsGen-06-02-04
@@ -23,9 +23,9 @@ celestialSources/eblAtten eblAtten-00-08-01
 celestialSources/microQuasar microQuasar-01-04-04
 
 # infrastructure
-gr_app gr_app-00-02-03
-gui gui-03-07-04
-geomrep geomrep-04-03-02
+gr_app gr_app-01-00-00
+gui gui-03-07-08
+geomrep geomrep-04-03-04
 geometry geometry-03-02-02
 xmlUtil xmlUtil-03-04-03
 enums enums-03-00-02
@@ -51,7 +51,7 @@ mcRootData mcRootData-02-22-03
 digiRootData digiRootData-11-14-04
 reconRootData reconRootData-09-20-01-gr07
 gcrSelectRootData gcrSelectRootData-02-02-06
-rootUtil rootUtil-01-04-03
+rootUtil rootUtil-01-04-04
 rootTestData rootTestData-04-02-01-gr01
 
 AdfEvent AdfEvent-00-05-03
@@ -109,7 +109,7 @@ AnalysisNtuple AnalysisNtuple-02-55-09-gr10
 CHS/eventFile eventFile-09-00-02
 LdfEvent LdfEvent-04-10-01
 lsfData lsfData-04-03-02
-ldfReader ldfReader-07-04-06
+ldfReader ldfReader-07-04-08
 LdfConverter LdfConverter-04-04-07
 
 # HepRep
@@ -133,7 +133,7 @@ OverlayEvent OverlayEvent-00-02-01-gr02
 Overlay Overlay-01-06-00-gr02
 overlayRootData overlayRootData-00-02-02-gr01
 
-calibGenCAL calibGenCAL-05-09-04
+calibGenCAL calibGenCAL-05-09-05
 calibGenACD calibGenACD-04-01-04
 calibTkrUtil calibTkrUtil-02-09-06-gr01
 calibGenTKR calibGenTKR-04-08-01
@@ -143,5 +143,5 @@ detCheck detCheck-01-07-02
 
 Gleam Gleam-07-04-07-gr09
 
-SConsFiles SConsFiles-00-15-02
+SConsFiles SConsFiles-00-15-07
 GlastRelease-scons/containerSettings containerSettings-00-03-00-br01
