@@ -59,7 +59,7 @@ AncillaryDataEvent AncillaryDataEvent-01-04-03
 AncillaryDataUtil AncillaryDataUtil-01-00-06
 
 RootConvert RootConvert-01-42-01-gr03
-RootIo RootIo-24-05-00-gr04
+RootIo RootIo-24-05-00-gr05
 
 configData configData-01-11-03
 Trigger Trigger-07-01-04-gr01
@@ -68,23 +68,23 @@ FluxSvc FluxSvc-06-55-08-gr02
 CRflux CRflux-01-17-06-gr02
 
 EbfWriter EbfWriter-01-08-05-gr01
-OnboardFilter OnboardFilter-04-14-06-gr02
-OnboardFilterTds OnboardFilterTds-00-10-02
+OnboardFilter OnboardFilter-04-14-06-gr03
+OnboardFilterTds OnboardFilterTds-00-11-01
 
 # Calorimeter
-CalUtil CalUtil-03-14-05
-CalXtalResponse CalXtalResponse-00-23-01-gr03
+CalUtil CalUtil-03-14-05-gr01
+CalXtalResponse CalXtalResponse-00-23-01-gr04
 CalDigi CalDigi-03-07-04-gr01
 CalRecon CalRecon-06-08-02-gr04
 GCRCalib GCRCalib-01-07-02-gr01
 
 # Tracker
 TkrDigi TkrDigi-02-10-09-gr01
-TkrUtil TkrUtil-03-18-02-gr04
-TkrRecon TkrRecon-10-16-07-gr04
+TkrUtil TkrUtil-03-18-02-gr05
+TkrRecon TkrRecon-10-16-07-gr05
 
 # ACD
-AcdDigi AcdDigi-03-08-00-gr02
+AcdDigi AcdDigi-03-08-00-gr03
 AcdUtil AcdUtil-02-08-09-gr02
 AcdRecon AcdRecon-04-03-03-gr04
 
@@ -97,7 +97,7 @@ G4Propagator G4Propagator-02-05-05-gr01
 # calibration
 calibUtil calibUtil-01-13-02
 CalibData CalibData-00-26-05-gr01
-CalibSvc CalibSvc-00-40-06-gr01
+CalibSvc CalibSvc-00-40-06-gr02
 calibRootData calibRootData-01-07-11
 
 # ntuple
@@ -121,7 +121,7 @@ HepRepXml HepRepXml-00-08-07-gr01
 classifier classifier-01-06-04-gr01
 GlastClassify GlastClassify-07-05-00-gr07
 
-Interleave Interleave-01-06-07-gr02
+Interleave Interleave-01-06-07-gr03
 
 # MOOT
 mootCore mootCore-01-24-07
@@ -130,7 +130,7 @@ ConfigSvc ConfigSvc-00-02-12-gr01
 
 # Overlay
 OverlayEvent OverlayEvent-00-02-01-gr02
-Overlay Overlay-01-06-00-gr03
+Overlay Overlay-01-06-00-gr04
 overlayRootData overlayRootData-00-02-02-gr01
 
 calibGenCAL calibGenCAL-05-09-05
@@ -144,4 +144,4 @@ detCheck detCheck-01-07-02
 Gleam Gleam-07-04-07-gr10
 
 SConsFiles SConsFiles-00-17-06
-GlastRelease-scons/containerSettings containerSettings-00-03-00-gr02
+GlastRelease-scons/containerSettings containerSettings-00-03-00-gr03
