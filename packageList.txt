@@ -37,7 +37,7 @@ rdbModel rdbModel-02-14-05
 xmlGeoDbs xmlGeoDbs-01-48-00
 
 # General Gaudi pacakges
-Event Event-13-05-00-gr02
+Event Event-13-05-00-gr03
 GlastSvc GlastSvc-09-28-04-gr02
 GuiSvc GuiSvc-03-09-02
 DetDisplay DetDisplay-03-03-04-gr01
