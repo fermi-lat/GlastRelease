@@ -85,7 +85,7 @@ TkrRecon TkrRecon-10-16-07-gr05
 
 # ACD
 AcdDigi AcdDigi-03-08-00-gr03
-AcdUtil AcdUtil-02-08-09-gr02
+AcdUtil AcdUtil-02-08-09-gr03
 AcdRecon AcdRecon-04-03-03-gr04
 
 # Geant4
