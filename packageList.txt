@@ -103,7 +103,7 @@ calibRootData calibRootData-01-07-11
 # ntuple
 ntupleWriterSvc ntupleWriterSvc-05-04-03-gr01
 merit merit-06-36-07-gr01
-AnalysisNtuple AnalysisNtuple-02-55-09-gr11
+AnalysisNtuple AnalysisNtuple-02-55-09-gr12
 
 # LDF
 CHS/eventFile eventFile-09-00-02
