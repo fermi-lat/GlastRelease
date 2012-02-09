@@ -37,7 +37,7 @@ rdbModel rdbModel-02-14-05
 xmlGeoDbs xmlGeoDbs-01-48-00
 
 # General Gaudi pacakges
-Event Event-14-09-09
+Event Event-14-09-09-gr02
 GlastSvc GlastSvc-10-00-05
 GuiSvc GuiSvc-03-08-03
 DetDisplay DetDisplay-03-03-05
@@ -52,7 +52,7 @@ digiRootData digiRootData-11-14-03
 reconRootData reconRootData-09-27-02
 gcrSelectRootData gcrSelectRootData-02-02-06
 rootUtil rootUtil-01-04-03
-rootTestData rootTestData-04-04-00
+rootTestData rootTestData-04-04-00-gr01
 
 AdfEvent AdfEvent-00-05-03
 AncillaryDataEvent AncillaryDataEvent-01-04-03
@@ -75,23 +75,23 @@ OnboardFilterTds OnboardFilterTds-00-10-02
 CalUtil CalUtil-03-14-05
 CalXtalResponse CalXtalResponse-00-25-02
 CalDigi CalDigi-03-07-04
-CalRecon CalRecon-06-15-02
+CalRecon CalRecon-06-15-02-gr03
 GCRCalib GCRCalib-01-08-04
 
 # Tracker
-TkrDigi TkrDigi-02-10-11
-TkrUtil TkrUtil-03-22-10
-TkrRecon TkrRecon-10-27-01
+TkrDigi TkrDigi-02-10-11-gr02
+TkrUtil TkrUtil-03-22-10-gr04
+TkrRecon TkrRecon-10-27-02-gr10
 
 # ACD
 AcdDigi AcdDigi-03-10-05
 AcdUtil AcdUtil-03-01-05
-AcdRecon AcdRecon-05-01-15
+AcdRecon AcdRecon-05-01-15-gr01
 
 # Geant4
-GlastMS GlastMS-01-00-01
-G4Generator G4Generator-06-03-01
-G4HadronSim G4HadronSim-02-00-01
+#GlastMS GlastMS-01-00-01
+G4Generator G4Generator-06-03-01-gr01
+#G4HadronSim G4HadronSim-02-00-01
 G4Propagator G4Propagator-03-00-01
 
 # calibration
@@ -103,7 +103,7 @@ calibRootData calibRootData-01-07-11
 # ntuple
 ntupleWriterSvc ntupleWriterSvc-06-00-01
 merit merit-06-36-07
-AnalysisNtuple AnalysisNtuple-02-59-06
+AnalysisNtuple AnalysisNtuple-02-59-06-gr05
 
 # LDF
 CHS/eventFile eventFile-09-00-02
@@ -130,7 +130,7 @@ ConfigSvc ConfigSvc-00-02-12
 
 # Overlay
 OverlayEvent OverlayEvent-01-00-00
-Overlay Overlay-02-00-05
+Overlay Overlay-02-00-05-gr01
 overlayRootData overlayRootData-00-03-03
 
 calibGenCAL calibGenCAL-05-09-04
@@ -141,7 +141,7 @@ calibGenTKR calibGenTKR-04-08-01
 # not used in Gleam, here as a build check
 detCheck detCheck-01-07-05
 
-Gleam Gleam-07-06-05
+Gleam Gleam-07-06-05-gr05
 
 SConsFiles SConsFiles-00-16-00
 GlastRelease-scons/containerSettings containerSettings-00-03-02
