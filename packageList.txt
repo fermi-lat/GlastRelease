@@ -38,9 +38,9 @@ xmlGeoDbs xmlGeoDbs-01-48-00
 
 # General Gaudi pacakges
 Event Event-13-05-00-gr03
-GlastSvc GlastSvc-09-28-04-gr02
-GuiSvc GuiSvc-03-09-02
-DetDisplay DetDisplay-03-03-04-gr01
+GlastSvc GlastSvc-09-28-04-gr03
+GuiSvc GuiSvc-03-10-00
+DetDisplay DetDisplay-03-03-04-gr02
 userAlg userAlg-06-06-08-gr03
 RootDisplay RootDisplay-00-04-02
 EventIntegrity EventIntegrity-00-08-05-gr01
@@ -64,7 +64,7 @@ RootIo RootIo-24-05-00-gr05
 configData configData-01-11-03
 Trigger Trigger-07-01-04-gr01
 
-FluxSvc FluxSvc-06-55-08-gr02
+FluxSvc FluxSvc-06-55-08-gr03
 CRflux CRflux-01-17-06-gr02
 
 EbfWriter EbfWriter-01-08-05-gr01
@@ -113,9 +113,9 @@ ldfReader ldfReader-07-04-09
 LdfConverter LdfConverter-04-04-07-gr01
 
 # HepRep
-HepRepSvc HepRepSvc-00-31-02-gr03
-HepRepCorba HepRepCorba-03-01-00-gr03
-HepRepXml HepRepXml-00-08-07-gr01
+HepRepSvc HepRepSvc-00-31-02-gr04
+HepRepCorba HepRepCorba-03-01-00-gr04
+HepRepXml HepRepXml-00-08-07-gr02
 
 # classification
 classifier classifier-01-06-04-gr01
