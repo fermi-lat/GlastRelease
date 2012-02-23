@@ -41,7 +41,7 @@ Event Event-13-05-00-gr03
 GlastSvc GlastSvc-09-28-04-gr03
 GuiSvc GuiSvc-03-10-00
 DetDisplay DetDisplay-03-03-04-gr02
-userAlg userAlg-06-06-08-gr03
+userAlg userAlg-06-06-08-gr04
 RootDisplay RootDisplay-00-04-02
 EventIntegrity EventIntegrity-00-08-05-gr01
 
@@ -75,7 +75,7 @@ OnboardFilterTds OnboardFilterTds-00-11-01
 CalUtil CalUtil-03-14-05-gr01
 CalXtalResponse CalXtalResponse-00-23-01-gr04
 CalDigi CalDigi-03-07-04-gr01
-CalRecon CalRecon-06-08-02-gr04
+CalRecon CalRecon-06-08-02-gr05
 GCRCalib GCRCalib-01-07-02-gr01
 
 # Tracker
