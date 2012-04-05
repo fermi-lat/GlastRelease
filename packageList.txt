@@ -62,7 +62,7 @@ RootConvert RootConvert-01-42-01-gr03
 RootIo RootIo-24-05-00-gr03
 
 configData configData-01-11-03
-Trigger Trigger-07-01-04
+Trigger Trigger-07-01-04-tr01
 
 FluxSvc FluxSvc-06-55-08
 CRflux CRflux-01-17-06
@@ -80,8 +80,8 @@ GCRCalib GCRCalib-01-07-02
 
 # Tracker
 TkrDigi TkrDigi-02-10-09
-TkrUtil TkrUtil-03-18-02-gr03
-TkrRecon TkrRecon-10-16-07-gr03
+TkrUtil TkrUtil-03-18-02-tr03
+TkrRecon TkrRecon-10-16-07-gr05
 
 # ACD
 AcdDigi AcdDigi-03-08-00-gr01
