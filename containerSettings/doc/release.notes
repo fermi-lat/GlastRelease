@@ -4,6 +4,8 @@
  *
  *                  EOH
 
+ containerSettings-00-03-00-rp02 16-Apr-2012 heather reall move to ROOT 
+    v5.26.00a-gl6 for non-windows OSes, also move to python 2.7.1
  containerSettings-00-03-00-rp01 03-Apr-2012 heather move to ROOT v5.26.00a-gl6 for reprocessing
  containerSettings-00-03-00 23-May-2011 heather upgrade to CLHEP 2.1.0.1 and geant4 9.4.p01
  containerSettings-00-02-02 08-Mar-2011    jrb Use new external name: LDF rather than ldf
