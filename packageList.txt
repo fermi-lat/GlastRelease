@@ -43,7 +43,7 @@ GuiSvc GuiSvc-03-10-00
 DetDisplay DetDisplay-03-03-04-gr02
 userAlg userAlg-06-06-08-gr04
 RootDisplay RootDisplay-00-04-02
-EventIntegrity EventIntegrity-00-08-05-gr02
+EventIntegrity EventIntegrity-00-08-05-gr03
 
 # ROOT data descriptions
 commonRootData commonRootData-02-15-08
@@ -59,7 +59,7 @@ AncillaryDataEvent AncillaryDataEvent-01-04-03
 AncillaryDataUtil AncillaryDataUtil-01-00-06
 
 RootConvert RootConvert-01-42-01-gr03
-RootIo RootIo-24-05-00-rp02
+RootIo RootIo-24-05-00-gr06
 
 configData configData-01-11-03
 Trigger Trigger-07-01-04-gr01
