@@ -4,6 +4,7 @@
  *
  *                  EOH
 
+ containerSettings-00-03-00-rp03 17-Apr-2012 heather ldf rather than LDF
  containerSettings-00-03-00-rp02 16-Apr-2012 heather reall move to ROOT 
     v5.26.00a-gl6 for non-windows OSes, also move to python 2.7.1
  containerSettings-00-03-00-rp01 03-Apr-2012 heather move to ROOT v5.26.00a-gl6 for reprocessing
