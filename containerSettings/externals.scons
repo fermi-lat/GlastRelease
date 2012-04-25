@@ -39,7 +39,7 @@ usedExternals.append({ 'name' : 'extFiles', 'iversion' : 'v0r9' })
 # and also need obf B1-1-3, SCons arrangement
 if baseEnv['COMPILERNAME'] == 'vc71':
     usedExternals.append({ 'name' : 'obf', 'iversion' : 'B1-1-3-i2' })
-else if baseEnv['COMPILERNAME'] == 'gcc34':
+elif baseEnv['COMPILERNAME'] == 'gcc34':
     usedExternals.append({ 'name' : 'obf', 'iversion' : 'B1-1-3-i2' })
 else:
     usedExternals.append({ 'name' : 'obf', 'iversion' : 'B3-0-0' })
