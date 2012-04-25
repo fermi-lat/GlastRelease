@@ -1,6 +1,0 @@
-$Id$
-
-heather 04-Sep-2011  12:31 PM  Making 17-35-24-gr13 tag which is identical to
-      17-35-24-gr12 tag, testing the reorg of the SCons RM directory structure
-      on u52
-heather 20-July-2011 11:51 AM  Settings up P7 branch of GR for SCons
