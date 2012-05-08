@@ -4,6 +4,8 @@
  *
  *                  EOH
 
+ containerSettings-00-03-00-gr08 07-May-2012 heather move to B3-0-0-gl1 for
+    all Linuxes
  containerSettings-00-03-00-gr07 25-Apr-2012 heather move to B1-3-gl7 to use
     the modified code in processExternals
  containerSettings-00-03-00-gr06 24-Apr-2012 heather patch to use elif
