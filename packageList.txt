@@ -7,7 +7,7 @@ astro astro-03-11-11-gr01
 facilities facilities-02-20-02
 flux flux-08-40-07
 tip tip-02-17-01
-fitsGen fitsGen-06-02-04
+fitsGen fitsGen-06-04-01
 embed_python embed_python-01-05-05
 evtUtils evtUtils-00-01-11-gr01
 
@@ -43,7 +43,7 @@ GuiSvc GuiSvc-03-08-03
 DetDisplay DetDisplay-03-03-04
 userAlg userAlg-06-06-08-gr02
 RootDisplay RootDisplay-00-03-02
-EventIntegrity EventIntegrity-00-08-05
+EventIntegrity EventIntegrity-00-08-05-gr02
 
 # ROOT data descriptions
 commonRootData commonRootData-02-15-08
@@ -109,7 +109,7 @@ AnalysisNtuple AnalysisNtuple-02-55-09-gr10
 CHS/eventFile eventFile-09-00-02
 LdfEvent LdfEvent-04-10-01
 lsfData lsfData-04-03-02
-ldfReader ldfReader-07-04-06
+ldfReader ldfReader-07-04-11
 LdfConverter LdfConverter-04-04-07
 
 # HepRep
@@ -143,5 +143,5 @@ detCheck detCheck-01-07-02
 
 Gleam Gleam-07-04-07-gr09
 
-SConsFiles SConsFiles-00-20-00
-GlastRelease-scons/containerSettings containerSettings-00-03-00-rp03
+SConsFiles SConsFiles-00-15-02-rp01
+GlastRelease-scons/containerSettings containerSettings-00-03-00-rp04
