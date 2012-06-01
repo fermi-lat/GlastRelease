@@ -37,7 +37,7 @@ rdbModel rdbModel-02-14-05
 xmlGeoDbs xmlGeoDbs-01-48-00
 
 # General Gaudi pacakges
-Event Event-13-05-00-gr01
+Event Event-13-05-00-tr01
 GlastSvc GlastSvc-09-28-04-gr01
 GuiSvc GuiSvc-03-08-03
 DetDisplay DetDisplay-03-03-04
@@ -62,7 +62,7 @@ RootConvert RootConvert-01-42-01-gr03
 RootIo RootIo-24-05-00-rp02
 
 configData configData-01-11-03
-Trigger Trigger-07-01-04
+Trigger Trigger-07-01-04-tr01
 
 FluxSvc FluxSvc-06-55-08
 CRflux CRflux-01-17-06
@@ -79,9 +79,9 @@ CalRecon CalRecon-06-08-02-gr03
 GCRCalib GCRCalib-01-07-02
 
 # Tracker
-TkrDigi TkrDigi-02-10-09
-TkrUtil TkrUtil-03-18-02-gr03
-TkrRecon TkrRecon-10-16-07-gr03
+TkrDigi TkrDigi-02-10-09-tr01
+TkrUtil TkrUtil-03-18-02-tr03
+TkrRecon TkrRecon-10-16-07-tr03
 
 # ACD
 AcdDigi AcdDigi-03-08-00-gr01
@@ -107,13 +107,13 @@ AnalysisNtuple AnalysisNtuple-02-55-09-gr10
 
 # LDF
 CHS/eventFile eventFile-09-00-02
-LdfEvent LdfEvent-04-10-01
+LdfEvent LdfEvent-04-10-01-tr01
 lsfData lsfData-04-03-02
 ldfReader ldfReader-07-04-06
 LdfConverter LdfConverter-04-04-07
 
 # HepRep
-HepRepSvc HepRepSvc-00-31-02-gr02
+HepRepSvc HepRepSvc-00-31-02-tr01
 HepRepCorba HepRepCorba-03-01-00-gr02
 HepRepXml HepRepXml-00-08-07
 
@@ -121,7 +121,7 @@ HepRepXml HepRepXml-00-08-07
 classifier classifier-01-06-04-gr01
 GlastClassify GlastClassify-07-05-00-gr06
 
-Interleave Interleave-01-06-07-gr01
+Interleave Interleave-01-06-07-tr01
 
 # MOOT
 mootCore mootCore-01-24-07
@@ -130,7 +130,7 @@ ConfigSvc ConfigSvc-00-02-12
 
 # Overlay
 OverlayEvent OverlayEvent-00-02-01-gr02
-Overlay Overlay-01-06-00-gr02
+Overlay Overlay-01-06-00-tr01
 overlayRootData overlayRootData-00-02-02-gr01
 
 calibGenCAL calibGenCAL-05-09-04
@@ -141,7 +141,7 @@ calibGenTKR calibGenTKR-04-08-01
 # not used in Gleam, here as a build check
 detCheck detCheck-01-07-02
 
-Gleam Gleam-07-04-07-gr09
+Gleam Gleam-07-04-07-tr01
 
 SConsFiles SConsFiles-00-20-00
 GlastRelease-scons/containerSettings containerSettings-00-03-00-rp03
