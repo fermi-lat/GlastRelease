@@ -12,8 +12,8 @@ embed_python embed_python-01-05-05
 evtUtils evtUtils-00-01-11-gr01
 
 # source modeling
-celestialSources celestialSources-01-04-00
-celestialSources/genericSources genericSources-01-15-01
+celestialSources celestialSources-01-05-00
+celestialSources/genericSources genericSources-01-15-04
 celestialSources/Pulsar Pulsar-03-01-01
 celestialSources/SpectObj SpectObj-01-03-08
 celestialSources/GRB GRB-04-04-08
@@ -21,6 +21,7 @@ celestialSources/GRBobs GRBobs-03-03-06
 celestialSources/GRBtemplate GRBtemplate-01-03-06
 celestialSources/eblAtten eblAtten-00-08-01
 celestialSources/microQuasar microQuasar-01-04-04
+celestialSources/EarthPhenom EarthPhenom-00-01-02
 
 # infrastructure
 gr_app gr_app-00-02-03
@@ -65,7 +66,7 @@ configData configData-01-11-03
 Trigger Trigger-07-01-04
 
 FluxSvc FluxSvc-06-55-08
-CRflux CRflux-01-17-06
+CRflux CRflux-01-17-06-bm01
 
 EbfWriter EbfWriter-01-08-05
 OnboardFilter OnboardFilter-04-16-04-lp02
