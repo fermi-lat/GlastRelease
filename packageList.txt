@@ -37,7 +37,7 @@ rdbModel rdbModel-02-14-06
 xmlGeoDbs xmlGeoDbs-01-48-00
 
 # General Gaudi pacakges
-Event Event-14-13-01
+Event Event-14-13-01-gr01
 GlastSvc GlastSvc-11-00-01
 GuiSvc GuiSvc-03-10-00
 DetDisplay DetDisplay-03-05-03
@@ -120,7 +120,7 @@ HepRepXml HepRepXml-00-10-01
 
 # classification
 classifier classifier-01-06-07
-GlastClassify GlastClassify-07-09-03
+GlastClassify GlastClassify-07-09-05
 
 Interleave Interleave-01-07-06
 
@@ -145,6 +145,6 @@ detCheck detCheck-01-07-06
 Gleam Gleam-07-11-07
 
 SConsFiles SConsFiles-00-28-00
-GlastRelease-scons/containerSettings containerSettings-00-09-00
+GlastRelease-scons/containerSettings containerSettings-00-09-01
 
 #celestialSources/EarthPhenom EarthPhenom-00-01-02
