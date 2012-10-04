@@ -1,5 +1,8 @@
 $Id$
 
+heather 04-Oct-2012 P202 reprocessing to include fitsGen-06-06-01 and 
+         astro-03-13-03
+heather             Candidate RHEL50 17-35-24-gr35
 heather 04-Sep-2011  12:31 PM  Making 17-35-24-gr13 tag which is identical to
       17-35-24-gr12 tag, testing the reorg of the SCons RM directory structure
       on u52
