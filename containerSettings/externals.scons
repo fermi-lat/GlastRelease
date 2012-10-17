@@ -38,9 +38,11 @@ usedExternals.append({ 'name' : 'extFiles', 'iversion' : 'v0r9' })
 
 # and also need obf B1-1-3, SCons arrangement
 if baseEnv['COMPILERNAME'] == 'vc71':
-    usedExternals.append({ 'name' : 'obf', 'iversion' : 'B1-1-3-i2' })
-else:
+    usedExternals.append({ 'name' : 'obf', 'iversion' : 'B1-1-3-i3' })
+elif baseEnv['COMPILERNAME'] == 'vc90':
     usedExternals.append({ 'name' : 'obf', 'iversion' : 'B3-0-0-i1' })
+else:
+    usedExternals.append({ 'name' : 'obf', 'iversion' : 'B3-1-0' })
 
 #   OmniOrb 4.1.2
 if baseEnv['COMPILERNAME'] == 'vc71':
