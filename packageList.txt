@@ -129,9 +129,9 @@ MootSvc MootSvc-01-01-10-gr01
 ConfigSvc ConfigSvc-00-02-12-gr01
 
 # Overlay
-OverlayEvent OverlayEvent-00-02-01-gr02
-Overlay Overlay-01-06-00-gr05
-overlayRootData overlayRootData-00-02-02-gr01
+OverlayEvent OverlayEvent-01-02-00
+Overlay Overlay-02-05-01-gr01
+overlayRootData overlayRootData-00-05-00
 
 calibGenCAL calibGenCAL-05-09-05
 calibGenACD calibGenACD-04-01-05
