@@ -76,7 +76,7 @@ CalUtil CalUtil-03-14-05-gr01
 CalXtalResponse CalXtalResponse-00-23-01-gr04
 CalDigi CalDigi-03-07-04-gr01
 CalRecon CalRecon-06-08-02-gr05
-GCRCalib GCRCalib-01-07-02-gr01
+GCRCalib GCRCalib-01-07-02-gr02
 
 # Tracker
 TkrDigi TkrDigi-02-10-09-gr01
