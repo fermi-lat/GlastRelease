@@ -4,7 +4,7 @@
 # in common with ScienceTools
 xmlBase xmlBase-05-05-10
 astro astro-03-11-17
-facilities facilities-02-20-05
+facilities facilities-02-22-01
 flux flux-08-40-07
 tip tip-02-17-01
 fitsGen fitsGen-06-04-01
