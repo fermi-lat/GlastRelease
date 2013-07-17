@@ -21,6 +21,7 @@ celestialSources/GRBobs GRBobs-03-04-01
 celestialSources/GRBtemplate GRBtemplate-01-04-00
 celestialSources/eblAtten eblAtten-00-09-00
 celestialSources/microQuasar microQuasar-01-05-01
+celestialSources/EarthPhenom EarthPhenom-00-02-01
 
 # infrastructure
 gr_app gr_app-01-00-00
@@ -96,8 +97,8 @@ G4Propagator G4Propagator-02-05-05-gr01
 
 # calibration
 calibUtil calibUtil-01-13-02
-CalibData CalibData-00-26-05-gr01
-CalibSvc CalibSvc-00-40-06-gr02
+CalibData CalibData-00-28-01
+CalibSvc CalibSvc-00-42-00
 calibRootData calibRootData-01-07-11
 
 # ntuple
@@ -144,4 +145,4 @@ detCheck detCheck-01-07-02
 Gleam Gleam-07-04-07-gr12
 
 SConsFiles SConsFiles-01-10-06
-GlastRelease-scons/containerSettings containerSettings-00-03-00-gr10
+GlastRelease-scons/containerSettings containerSettings-00-03-00-gr11

@@ -1,5 +1,7 @@
 $Id$
 
+heather 17-Jul-2013 17-35-24-lp47 Catching up on packages used in ST
+               move to ROOT v5.34 and pick up mods to CalibSvc and CalibData
 heather                           Fix up JO to include Chrono stats
                                   Memory leak fix to GCRCalib
 heather 09-Apr-2013 17-35-24-lp42 Add forgotten update to AnaTup for Overlay
