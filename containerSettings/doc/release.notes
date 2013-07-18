@@ -4,6 +4,8 @@
  *
  *                  EOH
 
+ containerSettings-00-03-00-gr12 18-Jul-2013 heather pick up latest TMine 
+  that is built against ROOT v5.34
  containerSettings-00-03-00-gr11 17-Jul-2013 heather move to ROOT v5.34.03-i1
  containerSettings-00-03-00-gr10 15-Feb-2013 heather move to obf B3-1-3 on
     the Linuxes
