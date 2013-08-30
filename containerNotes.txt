@@ -1,8 +1,23 @@
 # containerNotes for GlastRelease-scons
 
 
-2013-06-11 20-08-17
+2013-08-30 20-09-03 New GR, picking up Leon's patched ghost stuff in TkrUtil
+  note this was done on a branch GlastRelease-20-09-02-br01, due to the need
+  to avoid picking up latest EarthPhenom stuff
+2013-07-30 20-09-02 Patches for Event and RootConvert from Eric to further
+  protect against bad smooth fit events in TkrValsTools that result in 
+  some portions of the event objects to be not exist.
+  Also get Joanne's patch to SConsFiles that cleans up some supersede 
+  handling
+2013-07-25 20-09-01 AnalysisNtuple 02-71-22 seg fault protection
+  JIRA LPATE-154
+2013-07-01 20-09-00 RootIo patch for JO defaults and AcdRecon mod to 
+  log message levels
+2013-06-28 20-08-18 JIRA LPATE-147
+2013-06-13 20-08-17
   Patches to reconRootData and GCRCalib to avoid memory leaks
+  JIRA LPATE-146 includes updates to add in audior info from Tracy plus move new 
+  extFiles v0r14 for updated XML worksheets
 2013-06-05 20-08-16 JIRA LPATE-145 AcdRecon patch to avoid MC segfaults
   and patch to RootIo to remove some memory leaking
 2013-05-31 20-08-15 JIRA LPATE-144
