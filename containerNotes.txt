@@ -1,5 +1,20 @@
 $Id$
 
+heather 10-Sep-2013 17-35-24-lp52 Back off ROOT v5.34.00 for now
+heather 27-Aug-2013 17-35-24-lp51 Pick up Gleam 07-04-07-gr13, getting ready
+for new L1
+heather 19-Jul-2013 17-35-24-lp50 one more..this time rootUtil for ROOT v5.34
+heather 18-Jul-2013 17-35-24-lp49 another tag, this time for gaudi built
+against ROOT
+heather 18-Jul-2013 17-35-24-lp48 Pick up latest TMine built against ROOT
+v5.34
+heather 17-Jul-2013 17-35-24-lp47 Catching up on packages used in ST
+               move to ROOT v5.34 and pick up mods to CalibSvc and CalibData
+heather                           Fix up JO to include Chrono stats
+                                  Memory leak fix to GCRCalib
+heather 09-Apr-2013 17-35-24-lp42 Add forgotten update to AnaTup for Overlay
+heather 08-Apr-2013 17-35-24-lp41 Merge in Overlay updates for new Gaudi into L1
+heather 15-Feb-2013 Upgrade to obf B3-1-3
 heather 04-Oct-2012 P202 reprocessing to include fitsGen-06-06-01 and 
          astro-03-13-03
 heather             Candidate RHEL50 17-35-24-gr35
