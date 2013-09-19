@@ -2,25 +2,26 @@
 # $Id$
 
 # in common with ScienceTools
-xmlBase xmlBase-05-05-10
-astro astro-03-11-17
-facilities facilities-02-20-05
-flux flux-08-40-07
-tip tip-02-17-01
-fitsGen fitsGen-06-04-01
-embed_python embed_python-01-05-05
+xmlBase xmlBase-05-06-00
+astro astro-03-15-01
+facilities facilities-02-22-01
+flux flux-08-43-00
+tip tip-02-18-01
+fitsGen fitsGen-06-06-04
+embed_python embed_python-01-06-00
 evtUtils evtUtils-00-01-11-gr01
 
 # source modeling
-celestialSources celestialSources-01-04-00
-celestialSources/genericSources genericSources-01-15-01
-celestialSources/Pulsar Pulsar-03-01-01
-celestialSources/SpectObj SpectObj-01-03-08
-celestialSources/GRB GRB-04-04-08
-celestialSources/GRBobs GRBobs-03-03-06
-celestialSources/GRBtemplate GRBtemplate-01-03-06
-celestialSources/eblAtten eblAtten-00-08-01
-celestialSources/microQuasar microQuasar-01-04-04
+celestialSources celestialSources-01-06-00
+celestialSources/genericSources genericSources-01-17-00
+celestialSources/Pulsar Pulsar-03-02-00
+celestialSources/SpectObj SpectObj-01-04-00
+celestialSources/GRB GRB-04-05-00
+celestialSources/GRBobs GRBobs-03-04-01
+celestialSources/GRBtemplate GRBtemplate-01-04-00
+celestialSources/eblAtten eblAtten-00-09-00
+celestialSources/microQuasar microQuasar-01-05-01
+celestialSources/EarthPhenom EarthPhenom-00-02-01
 
 # infrastructure
 gr_app gr_app-01-00-00
@@ -51,7 +52,7 @@ mcRootData mcRootData-02-22-03
 digiRootData digiRootData-11-14-04
 reconRootData reconRootData-09-20-01-gr07
 gcrSelectRootData gcrSelectRootData-02-02-06
-rootUtil rootUtil-01-04-04
+rootUtil rootUtil-01-05-00
 rootTestData rootTestData-04-02-01-gr01
 
 AdfEvent AdfEvent-00-05-03
@@ -68,15 +69,15 @@ FluxSvc FluxSvc-06-55-08-gr03
 CRflux CRflux-01-17-06-gr02
 
 EbfWriter EbfWriter-01-08-05-gr01
-OnboardFilter OnboardFilter-04-18-00
-OnboardFilterTds OnboardFilterTds-00-13-00
+OnboardFilter OnboardFilter-04-18-02
+OnboardFilterTds OnboardFilterTds-00-13-02
 
 # Calorimeter
 CalUtil CalUtil-03-14-05-gr01
 CalXtalResponse CalXtalResponse-00-23-01-gr04
 CalDigi CalDigi-03-07-04-gr01
 CalRecon CalRecon-06-08-02-gr05
-GCRCalib GCRCalib-01-07-02-gr01
+GCRCalib GCRCalib-01-07-02-gr02
 
 # Tracker
 TkrDigi TkrDigi-02-10-09-gr01
@@ -96,14 +97,14 @@ G4Propagator G4Propagator-02-05-05-gr01
 
 # calibration
 calibUtil calibUtil-01-13-02
-CalibData CalibData-00-26-05-gr01
-CalibSvc CalibSvc-00-40-06-gr02
+CalibData CalibData-00-28-01
+CalibSvc CalibSvc-00-42-00
 calibRootData calibRootData-01-07-11
 
 # ntuple
 ntupleWriterSvc ntupleWriterSvc-05-04-03-gr02
 merit merit-06-36-07-gr01
-AnalysisNtuple AnalysisNtuple-02-55-09-gr12
+AnalysisNtuple AnalysisNtuple-02-55-09-gr14
 
 # LDF
 CHS/eventFile eventFile-09-00-02
@@ -129,9 +130,9 @@ MootSvc MootSvc-01-01-10-gr01
 ConfigSvc ConfigSvc-00-02-12-gr01
 
 # Overlay
-OverlayEvent OverlayEvent-00-02-01-gr02
-Overlay Overlay-01-06-00-gr05
-overlayRootData overlayRootData-00-02-02-gr01
+OverlayEvent OverlayEvent-01-02-00
+Overlay Overlay-02-05-01-gr01
+overlayRootData overlayRootData-00-05-00
 
 calibGenCAL calibGenCAL-05-09-05
 calibGenACD calibGenACD-04-01-05
@@ -141,7 +142,7 @@ calibGenTKR calibGenTKR-04-08-02
 # not used in Gleam, here as a build check
 detCheck detCheck-01-07-02
 
-Gleam Gleam-07-04-07-gr11
+Gleam Gleam-07-04-07-gr14
 
-SConsFiles SConsFiles-01-05-01
-GlastRelease-scons/containerSettings containerSettings-00-03-00-gr09
+SConsFiles SConsFiles-01-10-06
+GlastRelease-scons/containerSettings containerSettings-00-03-00-gr10
