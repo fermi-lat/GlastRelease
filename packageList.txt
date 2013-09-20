@@ -2,23 +2,23 @@
 # $Id$
 
 # in common with ScienceTools
-xmlBase xmlBase-05-06-00
-astro astro-03-15-01
-facilities facilities-02-22-01
+xmlBase xmlBase-05-06-01
+astro astro-03-15-02
+facilities facilities-02-22-04
 flux flux-08-43-00
 tip tip-02-18-01
-fitsGen fitsGen-06-06-04
-embed_python embed_python-01-06-00
-evtUtils evtUtils-00-01-11-gr01
+fitsGen fitsGen-06-06-05
+embed_python embed_python-01-07-00
+evtUtils evtUtils-00-02-03
 
 # source modeling
 celestialSources celestialSources-01-06-00
 celestialSources/genericSources genericSources-01-17-00
-celestialSources/Pulsar Pulsar-03-02-00
+celestialSources/Pulsar Pulsar-03-03-00
 celestialSources/SpectObj SpectObj-01-04-00
 celestialSources/GRB GRB-04-05-00
-celestialSources/GRBobs GRBobs-03-04-01
-celestialSources/GRBtemplate GRBtemplate-01-04-00
+celestialSources/GRBobs GRBobs-03-04-02
+celestialSources/GRBtemplate GRBtemplate-01-04-01
 celestialSources/eblAtten eblAtten-00-09-00
 celestialSources/microQuasar microQuasar-01-05-01
 celestialSources/EarthPhenom EarthPhenom-00-02-01
@@ -32,7 +32,7 @@ xmlUtil xmlUtil-03-04-03
 enums enums-03-00-02
 idents idents-02-20-03
 detModel detModel-02-21-02
-rdbModel rdbModel-02-14-05
+rdbModel rdbModel-02-16-01
 
 # geometry description
 xmlGeoDbs xmlGeoDbs-01-48-00
@@ -144,5 +144,5 @@ detCheck detCheck-01-07-02
 
 Gleam Gleam-07-04-07-gr14
 
-SConsFiles SConsFiles-01-10-06
-GlastRelease-scons/containerSettings containerSettings-00-03-00-gr10
+SConsFiles SConsFiles-01-11-01
+GlastRelease-scons/containerSettings containerSettings-00-03-00-gr14
