@@ -4,23 +4,23 @@ Import('baseEnv')
 
 usedExternals = []
 usedExternals.append({ 'name' : 'CLHEP', 'iversion' : '1.9.2.2' })
-usedExternals.append({ 'name' : 'cfitsio', 'iversion' : 'v3290' })
-usedExternals.append({ 'name' : 'swig', 'iversion' : '1.3.31' })
-usedExternals.append({ 'name' : 'xerces', 'iversion' : '2.8.0-gl1' })
-usedExternals.append({ 'name' : 'cppunit', 'iversion' : '1.10.2' })
+usedExternals.append({ 'name' : 'cfitsio', 'iversion' : 'v3290-i1' })
+usedExternals.append({ 'name' : 'swig', 'iversion' : '1.3.31-i1' })
+usedExternals.append({ 'name' : 'xerces', 'iversion' : '2.8.0-i1' })
+usedExternals.append({ 'name' : 'cppunit', 'iversion' : '1.10.2-i1' })
 
 # Probably can't actually use python 2.5.1-gl1 for all OS's, archs, etc.
 if baseEnv['COMPILERNAME'] != 'vc71':
-    usedExternals.append({ 'name' : 'python', 'iversion' : '2.7' })
+    usedExternals.append({ 'name' : 'python', 'iversion' : '2.6.5' })
 else:
     usedExternals.append({ 'name' : 'python', 'iversion' : '2.5.1-i1' })
 
 if baseEnv['COMPILERNAME'] != 'vc71':
-    usedExternals.append({ 'name' : 'ROOT', 'iversion' : 'v5.34.03-i1'})
+    usedExternals.append({ 'name' : 'ROOT', 'iversion' : 'v5.26.00a-i5'})
 else:
     usedExternals.append({ 'name' : 'ROOT', 'iversion' : 'v5.26.00a-i3'})
 
-usedExternals.append({ 'name' : 'TMineExt', 'iversion' : '3.3.2-i1'})
+usedExternals.append({ 'name' : 'TMineExt', 'iversion' : '3.2.5'})
 usedExternals.append({ 'name' : 'gaudi', 'iversion' : 'v21r7-i2' })
 usedExternals.append({ 'name' : 'geant4', 'iversion' : '8.0.p01-gl4' })
 usedExternals.append({ 'name' : 'ldf', 'iversion' : 'v07-01-01' })
@@ -33,7 +33,7 @@ usedExternals.append({ 'name' : 'zlib', 'iversion' : '1.1.4' })
 if sys.platform != 'win32':
     usedExternals.append({ 'name' : 'x11', 'iversion' : '1.0.0' })
 
-usedExternals.append({ 'name' : 'extFiles', 'iversion' : 'v0r9' })
+usedExternals.append({ 'name' : 'extFiles', 'iversion' : 'v0r10' })
 
 # and also need obf B1-1-3, SCons arrangement
 if baseEnv['COMPILERNAME'] == 'vc71':

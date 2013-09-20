@@ -4,6 +4,8 @@
  *
  *                  EOH
 
+ containerSettings-00-03-00-gr14 20-Sep-2013 heather match up to ST 09-32-05
+  minus ROOT v5.34.03, using ROOT v5.26 instead
  containerSettings-00-03-00-gr13 18-Jul-2013 heather latest gaudi built against ROOT v5.34
  containerSettings-00-03-00-gr12 18-Jul-2013 heather pick up latest TMine 
   that is built against ROOT v5.34
