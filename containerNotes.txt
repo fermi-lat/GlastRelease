@@ -1,5 +1,7 @@
 $Id$
 
+heather 25-Sep-2013 17-35-24-lp57 JIRA LONE-198 updated Gleam pipeline
+  readigi_runrecon.txt
 heather 20-Sep-2013 17-35-24-lp56 fix up gaudi version for ROOT
 heather 20-Sep-2013 17-35-24-lp55 pick up all tags in ST 09-32-05
 heather 19-Sep-2013 17-35-24-lp54 update calibration for L1 to use L1current
