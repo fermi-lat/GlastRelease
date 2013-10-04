@@ -1,5 +1,9 @@
 $Id$
 
+heather 04-Oct-2013 17-35-24-lp59 Leon's updates to TkrUtil:
+  1) fixed potential issue if the flavors of internal and tower alignment
+     consts are different
+  2) fixed previously useless printout of vstart and vend
 heather 04-Oct-2013 17-35-24-lp58 Pull in Tracy's fix to G4Propagator in
  response to discrepancies between 17-35-24-gr17 (P202) and 17-35-24-lp57
 "Fixing the comparison to cached start position/direction and step length 
