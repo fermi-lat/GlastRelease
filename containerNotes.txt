@@ -1,5 +1,7 @@
 $Id$
 
+heather 22-Oct-2013 17-35-24-lp61 Move to use
+  xmlGeoDbs/flight01/flightSegVols.txt in response to JIRA LONE-199
 heather 07-Oct-2013 17-35-24-lp60 Capturing Leon's final updates to TkrUtil
 heather 04-Oct-2013 17-35-24-lp59 Leon's updates to TkrUtil:
   1) fixed potential issue if the flavors of internal and tower alignment
