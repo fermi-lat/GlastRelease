@@ -4,6 +4,8 @@
  *
  *                  EOH
 
+ containerSettings-00-03-00-gr18 13-Jan-2015 heather move to gaudi v21r7-gl4 so
+that it is compiled against ROOT v5.34 
  containerSettings-00-03-00-gr17 16-Dec-2014 heather move to TMine 3.3.6
  containerSettings-00-03-00-gr16 09-Dec-2014 heather move to ROOT v5.34
  containerSettings-00-03-00-gr15 20-Sep-2013 heather revert gaudi too

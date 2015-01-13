@@ -18,7 +18,7 @@ else:
 usedExternals.append({ 'name' : 'ROOT', 'iversion' : 'v5.34.03-i1'})
 
 usedExternals.append({ 'name' : 'TMineExt', 'iversion' : '3.3.6'})
-usedExternals.append({ 'name' : 'gaudi', 'iversion' : 'v21r7-gl1' })
+usedExternals.append({ 'name' : 'gaudi', 'iversion' : 'v21r7-i2' })
 usedExternals.append({ 'name' : 'geant4', 'iversion' : '8.0.p01-gl4' })
 usedExternals.append({ 'name' : 'ldf', 'iversion' : 'v07-01-01' })
 usedExternals.append({ 'name' : 'mysql', 'iversion' : '4.1.18' })
