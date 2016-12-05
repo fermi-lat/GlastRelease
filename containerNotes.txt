@@ -1,6 +1,9 @@
 # containerNotes for GlastRelease-scons
 
 
+2016-12-05 heather Tagging GR 20-10-04-gr01 which includes updated to 
+           astro and facilities for leap second handling.  See JIRA
+           LPATE-197
 2016-01-11 heather Tagging GR 20-10-04 which includes 
            CalXtalResponse-01-01-04 in response to LPATE-189
 2015-06-17 heather Tagging GR 20-10-03
