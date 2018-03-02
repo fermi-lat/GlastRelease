@@ -100,7 +100,7 @@ G4Propagator G4Propagator-03-02-00
 calibUtil calibUtil-01-14-04
 CalibData CalibData-00-28-01
 CalibSvc CalibSvc-00-42-00
-calibRootData calibRootData-01-08-00
+calibRootData calibRootData-01-08-01
 
 # ntuple
 ntupleWriterSvc ntupleWriterSvc-06-02-03
