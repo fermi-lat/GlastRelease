@@ -3,7 +3,7 @@
 
 # in common with ScienceTools
 xmlBase xmlBase-05-06-01
-astro astro-04-01-00
+astro astro-04-02-00
 facilities facilities-02-23-03
 flux flux-08-44-00
 tip tip-02-18-05
@@ -148,7 +148,7 @@ McToolBox McToolBox-00-02-02
 Gleam Gleam-08-00-09
 
 SConsFiles SConsFiles-01-26-01
-GRcontainerSettings GRcontainerSettings-00-00-01-testL1
+GRcontainerSettings GRcontainerSettings-01-00-00
 SConsShared SConsShared-02-03-00
 
 celestialSources/EarthPhenom EarthPhenom-00-02-07
